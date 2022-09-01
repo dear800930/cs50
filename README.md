@@ -1,4 +1,4 @@
-# cs50 
+# cs50 I would like to share my solutions for Introduction to Computer Science 2022 from Edx.
 
 // contents
 w1 - w5 C
